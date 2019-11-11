@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mini Mercari</string>
+    <string name="tab_text_1">Men</string>
+    <string name="tab_text_2">All</string>
+    <string name="tab_text_3">Girl</string>
+    <string name="items_fragment">items_fragment</string>
+    <string name="common_loading">Loading</string>
+</resources>
